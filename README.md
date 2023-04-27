@@ -1,6 +1,6 @@
 # Machine Learning in Physics
 
-A collection of publicly available datasets that can be used for machine learning in physics applications. 
+A collection of publicly available physics datasets that machine learning models can be applied to. 
 
 ## Particle Physics 
 
