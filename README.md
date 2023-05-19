@@ -9,6 +9,7 @@ A collection of publicly available physics datasets that machine learning models
 | Higgs         | Classification | [UCI](https://archive.ics.uci.edu/ml/datasets/HIGGS) , [TF](https://www.tensorflow.org/datasets/catalog/higgs) |  
 | SUSSY         | Classification | [UCI](https://archive.ics.uci.edu/ml/datasets/SUSY)   | 
 | HTRU2         | Classification |   [UCI](https://archive.ics.uci.edu/ml/datasets/HTRU2)|
+| Top Taggging Quarks|  Classification              | [CERN](http://opendata.cern.ch/record/15013)|
 
 ## Astrophyiscs
 
